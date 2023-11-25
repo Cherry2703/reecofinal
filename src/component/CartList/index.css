@@ -1,0 +1,43 @@
+.search-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.cart-table-cont{
+    padding-left: 35px;
+    padding-top: 8px;
+    padding-right: 35px;
+    padding-bottom: 15px;
+}
+.cart-table-cont-1{
+    border: 1px solid #b5b5b1;
+    padding: 18px;
+    border-radius: 8px;
+    background-color: #fff;
+
+}
+.search-input{
+    width: 300px;
+    border-radius: 15px;
+    padding: 5px;
+    border: 1px solid #b5b5b1;
+}
+.btn-cont{
+    width: 130px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 3px;
+}
+.add-btn{
+    color: #175211;
+    background-color: transparent;
+    border: 1px solid #175211;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.printer-icon{
+    font-size: 20px;
+    color: #175211;
+    margin-right: 10px;
+}

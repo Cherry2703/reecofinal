@@ -1,0 +1,36 @@
+.order-id-cont{
+    padding-left: 40px;
+    box-shadow: 0 3px 5px #d8d9d2;
+    background-color: #fafafa;
+    padding-top:0px;
+}
+.order-id-underline{
+    text-decoration: underline;
+}
+.order-cont-buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.buttons-cont{
+    padding-right: 32px;
+    width: 14%;
+    justify-content: space-between;  
+    padding-top: 20px; 
+}
+.btn-1{
+    margin-right: 12px;
+    background-color: transparent;
+    border: 1.5px solid #175211;
+    padding: 8px;
+    border-radius: 10px;
+    color: #175211;
+    font-weight: 400;
+}
+.btn-2{
+    background-color: #175211;
+    color: #fff;
+    padding: 8px;
+    border-radius: 10px;
+    font-weight: 400;
+}

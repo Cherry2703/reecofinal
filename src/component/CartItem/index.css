@@ -1,0 +1,70 @@
+
+.each-row{
+    border-bottom:1px solid #a3a0a0;
+    border-radius: 0px;
+}
+.price-heading{
+    margin-right: -80px;
+}
+.quantity-heading{
+    margin-right: -80px;
+}
+.total-heading{
+    margin-right: -15px;
+}
+.status-row{
+    width: 22%;
+    text-align: start;
+}
+.each-item-img{
+    height: 35px;
+    width: 50px;
+}
+.right-img{
+    height: 15px;
+    width: 15px;
+    cursor: pointer;
+}
+.wrong-img{
+    height: 15px;
+    width: 15px;
+    cursor: pointer;
+}
+.status{
+    background-color: #f7f7f7;
+    width: 370px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.status-cont{
+    width: 130px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: end;
+    padding: 5px;
+}
+.status-edit-btn{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+
+.right-approved-para{
+    background-color: #6fd98b;
+    color:#fff;
+    border-radius: 8px;
+    font-size: 12px;
+    padding: 5px;
+    margin-left: 10px;
+}
+.wrong-miss-para{
+    background-color: red;
+    color:#fff;
+    border-radius: 8px;
+    font-size: 12px;
+    padding: 5px;
+    margin-left: 10px;
+}
